@@ -1,4 +1,4 @@
-##Battleships
+## Battleships
 
 ### Description
 The project was to create a command line interface (CLI) version of the classic game [Battleships](https://en.wikipedia.org/wiki/Battleship_(game)), to be played by two people. This project demonstrates my skills in object orientated programing, algorithms, 2-dimensional matrices, handling user input, and game design.
